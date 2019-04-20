@@ -1,7 +1,7 @@
 # Anomoly Detection
 > The study aims to correctly detect the anomoly in the 6.7 million rows of data. The project was done as part of self learning.
 
-The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)
+The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/blob/master/Imbalanced_Classification.ipynb)
 
 ## Table of contents
 * [General info](#general-info)
@@ -27,7 +27,7 @@ among which one class represents the absence of disease and the other fifteen cl
 
 ## Setup
 
-The dataset used and its metadata can be found [here](https://github.com/siddharthoza/Cardiac-Arrhythmia-Multi-Class-Classification/tree/master/Data). The jupyter notebook can be downloaded [here](https://github.com/harshbg/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb) and can be used to reproduce the result.
+The dataset used and its metadata can be found [here](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/tree/master/datasetparquet). The jupyter notebook can be downloaded [here](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/blob/master/Imbalanced_Classification.ipynb) and can be used to reproduce the result.
 
 
 ## Process
@@ -38,7 +38,7 @@ The dataset used and its metadata can be found [here](https://github.com/siddhar
 * I will be fitting my models on a smaller dataset and then will use those to predict values in larger dataset and calculate f1_score
 * I have used min max scalling as there were few columns which have very large values and that would have effected the model and would have created biasness
 
-**The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Cardiac-Arrhythmia-Multi-Class-Classification/blob/master/Cardiac%20Arrhythmia%20Multi-Class%20Classification.ipynb)**
+**The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/blob/master/Imbalanced_Classification.ipynb)**
 
 
 ## Code Examples
