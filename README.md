@@ -1,5 +1,5 @@
 # Anomoly Detection On Google Cloud Platform
-> The study aims to correctly detect the anomoly in the 6.7 million rows of data. The project was done as part of Data Science Competition organized at The University of Texas at Dallas.
+> The project aims to correctly detect the anomoly in the 6.7 million rows of data. The project was done as part of Data Science Competition organized at The University of Texas at Dallas.
 
 The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/blob/master/Imbalanced_Classification.ipynb)
 
@@ -15,9 +15,7 @@ The entire summary of the project can be found in the [Jupyter Notebook](https:/
 * [Contact](#contact)
 
 ## General info
-This study is conducted to 
-among which one class represents the absence of disease and the other fifteen classes represent electrocardiogram records of various subtypes of arrhythmias.
-
+The project will help in Detecting anomoly in a big data with high accuracy. The data is very imbalanced i.e only 364 instance of anomoly among 6.7 million rows of data. 
 
 ## Technologies
 * Google Cloud Platform (GCP)
@@ -27,6 +25,8 @@ among which one class represents the absence of disease and the other fifteen cl
 
 ## Setup
 
+1. Create an instance on GCP 
+2. Push the entire data in a bucket on GCP before using the python notebook
 The dataset used and its metadata can be found [here](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/tree/master/datasetparquet). The jupyter notebook can be downloaded [here](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/blob/master/Imbalanced_Classification.ipynb) and can be used to reproduce the result.
 
 
