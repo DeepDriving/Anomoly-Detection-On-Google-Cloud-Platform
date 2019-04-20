@@ -1,5 +1,5 @@
-# Anomoly Detection
-> The study aims to correctly detect the anomoly in the 6.7 million rows of data. The project was done as part of self learning.
+# Anomoly Detection On Google Cloud Platform
+> The study aims to correctly detect the anomoly in the 6.7 million rows of data. The project was done as part of Data Science Competition organized at The University of Texas at Dallas.
 
 The entire summary of the project can be found in the [Jupyter Notebook](https://github.com/siddharthoza/Anomoly-Detection-Machine-Learning/blob/master/Imbalanced_Classification.ipynb)
 
