@@ -54,7 +54,6 @@ SELECT
 import google.datalab.bigquery as bq
 df = bq.Query(query).execute().result().to_dataframe()
 df.head()
-
 ````
 
 ````
